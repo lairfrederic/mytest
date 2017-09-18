@@ -13,7 +13,7 @@ class AppTest extends Specification {
 
         then:
         println result + ""
-        result == "Hello worlddefegerfefe  versionb2."
+        result == "Hello worlddefegerfefe  version."
 
 
 
